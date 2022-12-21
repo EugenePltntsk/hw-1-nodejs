@@ -1,0 +1,28 @@
+{
+  "name": "hw-1-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugenePltntsk/hw-1-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugenePltntsk/hw-1-nodejs/issues"
+  },
+  "homepage": "https://github.com/EugenePltntsk/hw-1-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
